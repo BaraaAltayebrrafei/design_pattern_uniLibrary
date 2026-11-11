@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<issae>
+
+    <specialite nom="Informatique">
+        <etudiant username="samikaram@isae.edu.lb" password="100550">
+            <matiere>NFP121</matiere>
+            <matiere>NFA035</matiere>
+            <matiere>NFP107</matiere>
+        </etudiant>
+
+        <etudiant username="fadifarah@isae.edu.lb" password="100482">
+            <matiere>NFA032</matiere>
+            <matiere>NFA035</matiere>
+            <matiere>NFA007</matiere>
+            <matiere>NFA042</matiere>
+        </etudiant>
+    </specialite>
+
+    <specialite nom="Electronique">
+        <etudiant username="ali.hassan@isae.edu.lb" password="123456">
+            <matiere>ELC101</matiere>
+            <matiere>ELC205</matiere>
+        </etudiant>
+    </specialite>
+
+</issae>

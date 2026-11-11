@@ -1,0 +1,7 @@
+   build/
+   dist/
+   nbproject/private/
+   *.bin
+   medias.xml
+   data/media.xml
+   data/medias.csv
